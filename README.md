@@ -1,9 +1,4 @@
-## Freedom is a machine you own.
-
-The standard I'm building toward: **everything I depend on runs on something I own.** 
-My own servers, my own models, my own tooling, my own money.
-I'm not there yet. The work here is the journey.
-
+# My projects
 ## The Understudy Desk
 
 Three portfolios run strictly by the published methods of Benjamin Graham, Peter Lynch, and Joel Greenblatt — every position in the open, benchmarked against the S&P 500. The methods are published. The portfolios are ours.
