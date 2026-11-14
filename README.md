@@ -5,9 +5,11 @@ Three portfolios run strictly by the published methods of Benjamin Graham, Peter
 
 Coming soon.
 
-→ [theunderstudydesk.com](https://theunderstudydesk.com)
+→ [**theunderstudydesk.com**](https://theunderstudydesk.com)
 
 ## Tools and projects
+
+- [**Pyriscence**](https://github.com/VoxMachina1/Pyriscence) - An archive of open-weight AI models in raw release form, plus the tools to run them.
 
 [**Graham Screener**](https://voxmachina1.github.io/graham-screener/) — a value-investing screener built on Graham's published tests: defensive scores, net-nets, Piotroski, Altman Z'', and a DCF cross-check across \~500 tickers. ([repo](https://github.com/VoxMachina1/graham-screener))
 
