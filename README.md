@@ -11,6 +11,8 @@ Coming soon.
 
 [**Graham Screener**](https://voxmachina1.github.io/graham-screener/) — a value-investing screener built on Graham's published tests: defensive scores, net-nets, Piotroski, Altman Z'', and a DCF cross-check across \~500 tickers. ([repo](https://github.com/VoxMachina1/graham-screener))
 
+[**Pando**](https://voxmachina1.github.io/Pando/) — a static, login-free front-end for curated video corpora: a fixed catalogue you choose instead of a recommendation algorithm — no feed, no account, state lives in the browser. One front-end, any corpus; the built-in corpus is AI education, 33 channels and 973 videos. ([repo](https://github.com/VoxMachina1/Pando))
+
 [**MTG EV Reporter**](https://voxmachina1.github.io/mtg_ev_reporter/) — expected-value reports for Magic: The Gathering sealed product. ([repo](https://github.com/VoxMachina1/mtg_ev_reporter))
 
 [**Composer JSON Fuzz Tester**](https://github.com/VoxMachina1/composer_json_fuzz_tester) — stress-tests every condition in a Composer strategy JSON and reports where the settings are fragile: worst case, best case, and where the current setup actually sits. Now part of the Crescendo tooling.
